@@ -1,0 +1,107 @@
+{
+  "games": [
+    {
+      "id": 0,
+      "gameName": "Spider-Man",
+      "producer": 0,
+      "platform": "PS4",
+      "gameStatus": "playing",
+      "review": "",
+      "rating": "",
+      "dateStart": "14/11//2019",
+      "dateEnd": ""
+    },
+    {
+      "id": 1,
+      "gameName": "Cyberpunk 2077",
+      "producer": 1,
+      "platform": "PC",
+      "gameStatus": "playing",
+      "review": "",
+      "rating": "",
+      "dateStart": "10/12/2020",
+      "dateEnd": ""
+    },
+    {
+      "id": 2,
+      "gameName": "Ratchet & Clank",
+      "producer": 0,
+      "platform": "PS4",
+      "gameStatus": "reviewed",
+      "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eleifend ut dui in sagittis. Nunc sed arcu non odio eleifend tincidunt. Proin tortor nibh, ultricies porta vestibulum a, vestibulum at lorem.",
+      "rating": 8,
+      "dateStart": "30/04/2016",
+      "dateEnd": "20/05/2016"
+    },
+    {
+      "id": 3,
+      "gameName": "Wiedźmin 3: Dziki Gon",
+      "producer": 1,
+      "platform": "PC",
+      "gameStatus": "reviewed",
+      "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eleifend ut dui in sagittis. Nunc sed arcu non odio eleifend tincidunt. Proin tortor nibh, ultricies porta vestibulum a, vestibulum at lorem.",
+      "rating": 9,
+      "dateStart": "25/12/2015",
+      "dateEnd": "15/07/2016"
+    },
+    {
+      "id": 4,
+      "gameName": "Stardew Valley",
+      "producer": 2,
+      "platform": "PC",
+      "gameStatus": "done",
+      "review": "",
+      "rating": "",
+      "dateStart": "20/03/2020",
+      "dateEnd": "10/01/2021"
+    },
+    {
+      "id": 5,
+      "gameName": "Hades",
+      "producer": 3,
+      "platform": "PC",
+      "gameStatus": "to_play",
+      "review": "",
+      "rating": "",
+      "dateStart": "",
+      "dateEnd": ""
+    },
+    {
+      "gameName": "Minecraft",
+      "producer": 4,
+      "platform": "PC",
+      "gameStatus": "reviewed",
+      "review": "qwe",
+      "rating": 7,
+      "dateStart": "05/02/2021",
+      "dateEnd": "05/02/2021",
+      "id": 6
+    }
+  ],
+  "producers": [
+    {
+      "id": 0,
+      "name": "Insomniac Games"
+    },
+    {
+      "id": 1,
+      "name": "CD Projekt RED"
+    },
+    {
+      "id": 2,
+      "name": "Concerned Ape"
+    },
+    {
+      "id": 3,
+      "name": "Supergiant Games"
+    },
+    {
+      "name": "Mojang",
+      "id": 4
+    },
+    {
+      "name": "",
+      "id": 5
+    }
+  ]
+}
